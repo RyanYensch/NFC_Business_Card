@@ -1533,7 +1533,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NFC_Custom:NFC_80x50_5T"
 			(at 85.09 82.55 0)
 			(hide yes)
 			(show_name no)
