@@ -135,7 +135,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e94518cf-20b5-460f-b86f-3116dfe520bd")
+			(uuid "ffb83a53-9fed-41c5-b189-6f71a57def88")
 			(effects
 				(font
 					(size 1 1)
@@ -147,7 +147,8 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "d16e8052-5d19-42d1-83ad-ed4aabf8c55a")
+			(hide yes)
+			(uuid "c0fbdc76-c669-4fa0-b88b-ceb82239bcad")
 			(effects
 				(font
 					(size 1 1)
@@ -160,7 +161,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa3866f6-3dcc-4d5b-9aae-1c9db75d2323")
+			(uuid "f4cf3bc7-a8bb-4784-8be8-84cef0dc727d")
 			(effects
 				(font
 					(size 1 1)
@@ -173,7 +174,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7cadd6d-698a-4ee1-b730-033503e79182")
+			(uuid "410260ad-80be-4267-b97a-ce9cdafea64b")
 			(effects
 				(font
 					(size 1 1)
@@ -15696,7 +15697,7 @@
 		)
 	)
 	(gr_text "Mechatronics"
-		(at 62 70 0)
+		(at 75 69 0)
 		(layer "B.SilkS")
 		(uuid "d4bbf346-f9c9-4e7c-a9d7-655f0df838ab")
 		(effects
@@ -15704,11 +15705,11 @@
 				(size 1.2 1.2)
 				(thickness 0.16)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(gr_text "Cyber Security"
-		(at 62 78 0)
+		(at 75 77 0)
 		(layer "B.SilkS")
 		(uuid "40cb8ee0-606b-439e-a02b-622b8f410944")
 		(effects
@@ -15716,11 +15717,11 @@
 				(size 1.2 1.2)
 				(thickness 0.16)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(gr_text "ryan.yensch.com"
-		(at 62 87 0)
+		(at 75 87 0)
 		(layer "B.SilkS")
 		(uuid "e10677c1-8cab-4343-a38d-5717227f0fea")
 		(effects
@@ -15728,11 +15729,11 @@
 				(size 1.2 1.2)
 				(thickness 0.16)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(gr_text "ryan@yensch.com"
-		(at 62 91 0)
+		(at 75 91 0)
 		(layer "B.SilkS")
 		(uuid "d399d324-785f-430a-9970-fdbd2b9323b2")
 		(effects
@@ -15740,11 +15741,11 @@
 				(size 1.2 1.2)
 				(thickness 0.16)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(gr_text "Software"
-		(at 62 74 0)
+		(at 75 73 0)
 		(layer "B.SilkS")
 		(uuid "1161dbad-6f94-4ace-a2d7-d595cd824b34")
 		(effects
@@ -15753,11 +15754,11 @@
 				(thickness 0.16)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(gr_text "Scan or Tap"
-		(at 115 95 0)
+		(at 115 94.5 0)
 		(layer "B.SilkS")
 		(uuid "15021987-1bf3-4dad-9bf9-4a8de7cc1cfd")
 		(effects
@@ -15769,15 +15770,15 @@
 		)
 	)
 	(gr_text "Ryan Yensch"
-		(at 62 63 0)
+		(at 75 60 0)
 		(layer "B.SilkS")
 		(uuid "b321cdf5-0da1-4415-b550-445e822c0668")
 		(effects
 			(font
-				(size 2.2 2.2)
-				(thickness 0.3)
+				(size 2 2)
+				(thickness 0.25)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
 		)
 	)
 	(barcode
