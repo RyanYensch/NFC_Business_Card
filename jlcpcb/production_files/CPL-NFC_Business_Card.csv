@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10nF,C_0603_1608Metric,106.0,-77.0,90.0,top
+D1,RED LED,LED_0603_1608Metric,111.646,-67.94,0.0,top
+D2,RED LED,LED_0603_1608Metric,118.36,-67.939,0.0,top
+R1,1k,R_0603_1608Metric,113.5,-74.0,0.0,top
+R2,1k,R_0603_1608Metric,116.5,-74.0,180.0,top
+R3,0R,R_0603_1608Metric,124.0,-77.0,-90.0,top
+U1,ST25DV04KC-IE6T3,TSSOP-8_4.4x3mm_P0.65mm,115.0,-79.0,270.0,top
