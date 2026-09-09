@@ -260,7 +260,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|1384300|850900|5dec7ebe-8368-42c1-a7ee-e2c6d039b99f|aba812fe-0397-46c3-a5ba-cd06f03b7381|/2c8a1a94-0ad8-498c-9134-816a54860526|/2c8a1a94-0ad8-498c-9134-816a54860526|/2c8a1a94-0ad8-498c-9134-816a54860526",
+        "SDA intentionally tied low; I2C interface unused. GND PWR_FLAG is an ERC reference only."
+      ]
+    ],
     "meta": {
       "version": 0
     },
