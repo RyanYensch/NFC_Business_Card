@@ -15697,7 +15697,7 @@
 		)
 	)
 	(gr_text "Mechatronics"
-		(at 75 69 0)
+		(at 115 69 0)
 		(layer "B.SilkS")
 		(uuid "d4bbf346-f9c9-4e7c-a9d7-655f0df838ab")
 		(effects
@@ -15709,7 +15709,7 @@
 		)
 	)
 	(gr_text "Cyber Security"
-		(at 75 77 0)
+		(at 115 77 0)
 		(layer "B.SilkS")
 		(uuid "40cb8ee0-606b-439e-a02b-622b8f410944")
 		(effects
@@ -15721,7 +15721,7 @@
 		)
 	)
 	(gr_text "ryan.yensch.com"
-		(at 75 87 0)
+		(at 115 87 0)
 		(layer "B.SilkS")
 		(uuid "e10677c1-8cab-4343-a38d-5717227f0fea")
 		(effects
@@ -15733,7 +15733,7 @@
 		)
 	)
 	(gr_text "ryan@yensch.com"
-		(at 75 91 0)
+		(at 115 91 0)
 		(layer "B.SilkS")
 		(uuid "d399d324-785f-430a-9970-fdbd2b9323b2")
 		(effects
@@ -15745,7 +15745,7 @@
 		)
 	)
 	(gr_text "Software"
-		(at 75 73 0)
+		(at 115 73 0)
 		(layer "B.SilkS")
 		(uuid "1161dbad-6f94-4ace-a2d7-d595cd824b34")
 		(effects
@@ -15758,7 +15758,7 @@
 		)
 	)
 	(gr_text "Scan or Tap"
-		(at 115 94.5 0)
+		(at 75 94.5 0)
 		(layer "B.SilkS")
 		(uuid "15021987-1bf3-4dad-9bf9-4a8de7cc1cfd")
 		(effects
@@ -15770,7 +15770,7 @@
 		)
 	)
 	(gr_text "Ryan Yensch"
-		(at 75 60 0)
+		(at 115 60 0)
 		(layer "B.SilkS")
 		(uuid "b321cdf5-0da1-4415-b550-445e822c0668")
 		(effects
@@ -15782,7 +15782,7 @@
 		)
 	)
 	(barcode
-		(at 115 76.99 0)
+		(at 75 76.99 0)
 		(layer "B.SilkS")
 		(size 20 20)
 		(text "https://ryan.yensch.com/nfc")
