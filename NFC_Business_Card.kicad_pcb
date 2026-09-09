@@ -15695,6 +15695,103 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Mechatronics"
+		(at 62 70 0)
+		(layer "B.SilkS")
+		(uuid "d4bbf346-f9c9-4e7c-a9d7-655f0df838ab")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.16)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Cyber Security"
+		(at 62 78 0)
+		(layer "B.SilkS")
+		(uuid "40cb8ee0-606b-439e-a02b-622b8f410944")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.16)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "ryan.yensch.com"
+		(at 62 87 0)
+		(layer "B.SilkS")
+		(uuid "e10677c1-8cab-4343-a38d-5717227f0fea")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.16)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "ryan@yensch.com"
+		(at 62 91 0)
+		(layer "B.SilkS")
+		(uuid "d399d324-785f-430a-9970-fdbd2b9323b2")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.16)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Software"
+		(at 62 74 0)
+		(layer "B.SilkS")
+		(uuid "1161dbad-6f94-4ace-a2d7-d595cd824b34")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Scan or Tap"
+		(at 115 95 0)
+		(layer "B.SilkS")
+		(uuid "15021987-1bf3-4dad-9bf9-4a8de7cc1cfd")
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.18)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(gr_text "Ryan Yensch"
+		(at 62 63 0)
+		(layer "B.SilkS")
+		(uuid "b321cdf5-0da1-4415-b550-445e822c0668")
+		(effects
+			(font
+				(size 2.2 2.2)
+				(thickness 0.3)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(barcode
+		(at 115 76.99 0)
+		(layer "B.SilkS")
+		(size 20 20)
+		(text "https://ryan.yensch.com/nfc")
+		(text_height 1)
+		(type qr)
+		(ecc_level M)
+		(hide yes)
+		(knockout no)
+		(uuid "0f0f4cd8-9d1d-46c9-88fb-bd17065abf37")
+	)
 	(segment
 		(start 93.29 101.79)
 		(end 93.5 102)
